@@ -1,0 +1,70 @@
+{% extends "base.html.jinja2" %}
+{% block heading %}
+    <h1 class="display-5">Similarity MOS Experiment</h1>
+    <hr class="my-4">
+    <p>
+        본 실험에 참여해 주셔서 감사합니다. <br> 각 문항에서 두 개의 음성 샘플을 들은 후, 두 음성 간 화자 유사도를 평가해주세요.
+    </p>
+    <p>
+        평가 기준 (1~5점):
+        <ul>
+            <li><b>1 (Not similar at all)</b></li>
+            <li><b>2 (Slightly similar)</b></li>
+            <li><b>3 (Moderately similar)</b></li>
+            <li><b>4 (Very similar)</b></li>
+            <li><b>5 (Extremely similar)</b></li>
+        </ul>
+    </p>
+{% endblock %}
+{% block form_questions %}
+    {% for question in questions %}
+        <div class="question" data-question-id="{{ question.id }}">
+            <div class="card-header"><b>SMOS</b> {{ question.title }}</div>
+            <div class="card-body">
+                <div class="audio-container">
+                    {% for audio_path in question.audio_paths %}
+                    <div>
+                        <p>
+                            <audio controls src="{{ audio_path }}">
+                                Your browser does not support the audio element.
+                            </audio>
+                        </p>
+                    </div>
+                    {% endfor %}
+                </div>
+                
+                <div class="radio-wrapper">
+                    <div class="radio-label-left">Not similar at all</div>
+                    <div class="radio-horizontal">
+                        <div class="radio-option">
+                            <input type="radio" name="{{ question.name }}" id="{{ question.name }}_1" value="1" required>
+                            <label for="{{ question.name }}_1">1 (Not similar at all)</label>
+                            <div class="radio-number">1</div>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="{{ question.name }}" id="{{ question.name }}_2" value="2" required>
+                            <label for="{{ question.name }}_2">2 (Slightly similar)</label>
+                            <div class="radio-number">2</div>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="{{ question.name }}" id="{{ question.name }}_3" value="3" required>
+                            <label for="{{ question.name }}_3">3 (Moderately similar)</label>
+                            <div class="radio-number">3</div>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="{{ question.name }}" id="{{ question.name }}_4" value="4" required>
+                            <label for="{{ question.name }}_4">4 (Very similar)</label>
+                            <div class="radio-number">4</div>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="{{ question.name }}" id="{{ question.name }}_5" value="5" required>
+                            <label for="{{ question.name }}_5">5 (Extremely similar)</label>
+                            <div class="radio-number">5</div>
+                        </div>
+                    </div>
+                    <div class="radio-label-right">Extremely similar</div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}

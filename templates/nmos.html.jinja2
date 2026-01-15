@@ -1,0 +1,64 @@
+{% extends "base.html.jinja2" %}
+{% block heading %}
+    <h1 class="display-5">NMOS Experiment</h1>
+    <hr class="my-4">
+    <p>
+        본 실험에 참여해 주셔서 감사합니다. <br> 각 문항에서 하나의 음성 샘플을 들은 후, 음성의 자연스러움을 평가해주세요.
+    </p>
+    <p>
+        평가 기준 (1~5점):
+    <ul>
+        <li><b>1 (Completely unnatural)</b></li>
+        <li><b>2 (Mostly unnatural)</b></li>
+        <li><b>3 (Equally natural and unnatural)</b></li>
+        <li><b>4 (Mostly natural)</b></li>
+        <li><b>5 (Completely natural)</b></li>
+    </ul>
+    </p>
+
+{% endblock %}
+{% block form_questions %}
+    {% for question in questions %}
+        <div class="question" data-question-id="{{ question.id }}">
+            <div class="card-header"><b>NMOS</b> {{ question.title }}</div>
+            <div class="card-body">
+                <p>
+                    <audio controls src="{{ question.audio_path }}">
+                        Your browser does not support the audio element.
+                    </audio>
+                </p>
+                <div class="radio-wrapper">
+                    <div class="radio-label-left">Completely unnatural</div>
+                    <div class="radio-horizontal">
+                        <div class="radio-option">
+                            <input type="radio" name="nmos_{{ question.name }}" id="nmos_{{ question.name }}_1" value="1" required>
+                            <label for="nmos_{{ question.name }}_1">1 (Completely unnatural)</label>
+                            <div class="radio-number">1</div>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="nmos_{{ question.name }}" id="nmos_{{ question.name }}_2" value="2" required>
+                            <label for="nmos_{{ question.name }}_2">2 (Mostly unnatural)</label>
+                            <div class="radio-number">2</div>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="nmos_{{ question.name }}" id="nmos_{{ question.name }}_3" value="3" required>
+                            <label for="nmos_{{ question.name }}_3">3 (Equally natural and unnatural)</label>
+                            <div class="radio-number">3</div>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="nmos_{{ question.name }}" id="nmos_{{ question.name }}_4" value="4" required>
+                            <label for="nmos_{{ question.name }}_4">4 (Mostly natural)</label>
+                            <div class="radio-number">4</div>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" name="nmos_{{ question.name }}" id="nmos_{{ question.name }}_5" value="5" required>
+                            <label for="nmos_{{ question.name }}_5">5 (Completely natural)</label>
+                            <div class="radio-number">5</div>
+                        </div>
+                    </div>
+                    <div class="radio-label-right">Completely natural</div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}
