@@ -1,61 +1,76 @@
-order,filename
-1,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01934.wav
-2,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01391.wav
-3,wav/eval_data/kor/dualcodec/KsponSpeech_E01213.wav
-4,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01414.wav
-5,wav/eval_data/kor/dualcodec/KsponSpeech_E01934.wav
-6,wav/eval_data/kor/mimi/KsponSpeech_E01414.wav
-7,wav/eval_data/kor/cosy2/KsponSpeech_E01934.wav
-8,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01172.wav
-9,wav/eval_data/kor/mimi/KsponSpeech_E02735.wav
-10,wav/eval_data/kor/cosy2/KsponSpeech_E01213.wav
-11,wav/eval_data/kor/dualcodec/KsponSpeech_E01172.wav
-12,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00442.wav
-13,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02291.wav
-14,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02306.wav
-15,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01213.wav
-16,wav/eval_data/kor/cosy2/KsponSpeech_E02735.wav
-17,wav/eval_data/kor/cosy2/KsponSpeech_E00882.wav
-18,wav/eval_data/kor/dualcodec/KsponSpeech_E01391.wav
-19,wav/eval_data/kor/cosy2/KsponSpeech_E01801.wav
-20,wav/eval_data/kor/dualcodec/KsponSpeech_E02291.wav
-21,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01801.wav
-22,wav/eval_data/kor/dualcodec/KsponSpeech_E00882.wav
-23,wav/eval_data/kor/cosy2/KsponSpeech_E00137.wav
-24,wav/eval_data/kor/cosy2/KsponSpeech_E01414.wav
-25,wav/eval_data/kor/mimi/KsponSpeech_E00442.wav
-26,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02735.wav
-27,wav/eval_data/kor/dualcodec/KsponSpeech_E02476.wav
-28,wav/eval_data/kor/cosy2/KsponSpeech_E00442.wav
-29,wav/eval_data/kor/mimi/KsponSpeech_E01310.wav
-30,wav/eval_data/kor/mimi/KsponSpeech_E01391.wav
-31,wav/eval_data/kor/cosy2/KsponSpeech_E02306.wav
-32,wav/eval_data/kor/cosy2/KsponSpeech_E01959.wav
-33,wav/eval_data/kor/mimi/KsponSpeech_E00882.wav
-34,wav/eval_data/kor/dualcodec/KsponSpeech_E01959.wav
-35,wav/eval_data/kor/cosy2/KsponSpeech_E01310.wav
-36,wav/eval_data/kor/mimi/KsponSpeech_E01934.wav
-37,wav/eval_data/kor/cosy2/KsponSpeech_E01391.wav
-38,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00882.wav
-39,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01959.wav
-40,wav/eval_data/kor/mimi/KsponSpeech_E01172.wav
-41,wav/eval_data/kor/mimi/KsponSpeech_E02291.wav
-42,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00137.wav
-43,wav/eval_data/kor/dualcodec/KsponSpeech_E01414.wav
-44,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02476.wav
-45,wav/eval_data/kor/cosy2/KsponSpeech_E01172.wav
-46,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01310.wav
-47,wav/eval_data/kor/dualcodec/KsponSpeech_E02735.wav
-48,wav/eval_data/kor/dualcodec/KsponSpeech_E01801.wav
-49,wav/eval_data/kor/dualcodec/KsponSpeech_E01310.wav
-50,wav/eval_data/kor/cosy2/KsponSpeech_E02291.wav
-51,wav/eval_data/kor/mimi/KsponSpeech_E01959.wav
-52,wav/eval_data/kor/dualcodec/KsponSpeech_E02306.wav
-53,wav/eval_data/kor/cosy2/KsponSpeech_E02476.wav
-54,wav/eval_data/kor/dualcodec/KsponSpeech_E00442.wav
-55,wav/eval_data/kor/dualcodec/KsponSpeech_E00137.wav
-56,wav/eval_data/kor/mimi/KsponSpeech_E01801.wav
-57,wav/eval_data/kor/mimi/KsponSpeech_E02476.wav
-58,wav/eval_data/kor/mimi/KsponSpeech_E02306.wav
-59,wav/eval_data/kor/mimi/KsponSpeech_E01213.wav
-60,wav/eval_data/kor/mimi/KsponSpeech_E00137.wav
+order,filename,transcript
+1,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02483.wav,입학 원서 다 넣고 등록금 다 냈는데 자퇴만 하면 이제 입학 처리 될 것 같애요
+2,wav/eval_data/kor/dualcodec/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+3,wav/eval_data/kor/cosy2/KsponSpeech_E02483.wav,입학 원서 다 넣고 등록금 다 냈는데 자퇴만 하면 이제 입학 처리 될 것 같애요
+4,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+5,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01875.wav,아 눈빛 네 눈빛입니다
+6,wav/eval_data/kor/cosy2/KsponSpeech_E01970.wav,그 나도 좀 이해가 많이 공감도 되고 이해가 되는데 나도 이제 사회생활을 하다보니까 하면 할수록 어려운게 사회생활인 거 같고
+7,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+8,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01348.wav,구체적으로는 물어보지 않았는데 아무래도 전문적으로 하는 거 같더라고
+9,wav/eval_data/kor/cosy2/KsponSpeech_E01710.wav,그 막 안에 혼자 막 뜯어 고치고 막 이러는 거
+10,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02483.wav,입학 원서 다 넣고 등록금 다 냈는데 자퇴만 하면 이제 입학 처리 될 것 같애요
+11,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+12,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+13,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+14,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01970.wav,그 나도 좀 이해가 많이 공감도 되고 이해가 되는데 나도 이제 사회생활을 하다보니까 하면 할수록 어려운게 사회생활인 거 같고
+15,wav/eval_data/kor/cosy2/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+16,wav/eval_data/kor/dualcodec/KsponSpeech_E02483.wav,입학 원서 다 넣고 등록금 다 냈는데 자퇴만 하면 이제 입학 처리 될 것 같애요
+17,wav/eval_data/kor/cosy2/KsponSpeech_E02510.wav,그러니까 이제 애들이 처음엔 아직도 적응을 못하는 애들이 있거든
+18,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+19,wav/eval_data/kor/cosy2/KsponSpeech_E01348.wav,구체적으로는 물어보지 않았는데 아무래도 전문적으로 하는 거 같더라고
+20,wav/eval_data/kor/cosy2/KsponSpeech_E01875.wav,아 눈빛 네 눈빛입니다
+21,wav/eval_data/kor/mimi/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+22,wav/eval_data/kor/mimi/KsponSpeech_E02020.wav,근데 나도 같은 한국인인데 난 그런 그렇게 하지 않았는데 너무 다 모든 한국인을 그렇게
+23,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+24,wav/eval_data/kor/cosy2/KsponSpeech_E02020.wav,근데 나도 같은 한국인인데 난 그런 그렇게 하지 않았는데 너무 다 모든 한국인을 그렇게
+25,wav/eval_data/kor/cosy2/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+26,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01780.wav,그 밑에 이렇게 평지로 다다르는 곳 있잖아 이 거의 끝에 쪽에
+27,wav/eval_data/kor/dualcodec/KsponSpeech_E01710.wav,그 막 안에 혼자 막 뜯어 고치고 막 이러는 거
+28,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02510.wav,그러니까 이제 애들이 처음엔 아직도 적응을 못하는 애들이 있거든
+29,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01710.wav,그 막 안에 혼자 막 뜯어 고치고 막 이러는 거
+30,wav/eval_data/kor/dualcodec/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+31,wav/eval_data/kor/mimi/KsponSpeech_E01970.wav,그 나도 좀 이해가 많이 공감도 되고 이해가 되는데 나도 이제 사회생활을 하다보니까 하면 할수록 어려운게 사회생활인 거 같고
+32,wav/eval_data/kor/cosy2/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+33,wav/eval_data/kor/mimi/KsponSpeech_E01875.wav,아 눈빛 네 눈빛입니다
+34,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02020.wav,근데 나도 같은 한국인인데 난 그런 그렇게 하지 않았는데 너무 다 모든 한국인을 그렇게
+35,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01348.wav,구체적으로는 물어보지 않았는데 아무래도 전문적으로 하는 거 같더라고
+36,wav/eval_data/kor/dualcodec/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+37,wav/eval_data/kor/dualcodec/KsponSpeech_E01970.wav,그 나도 좀 이해가 많이 공감도 되고 이해가 되는데 나도 이제 사회생활을 하다보니까 하면 할수록 어려운게 사회생활인 거 같고
+38,wav/eval_data/kor/mimi/KsponSpeech_E01710.wav,그 막 안에 혼자 막 뜯어 고치고 막 이러는 거
+39,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+40,wav/eval_data/kor/cosy2/KsponSpeech_E01780.wav,그 밑에 이렇게 평지로 다다르는 곳 있잖아 이 거의 끝에 쪽에
+41,wav/eval_data/kor/mimi/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+42,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01970.wav,그 나도 좀 이해가 많이 공감도 되고 이해가 되는데 나도 이제 사회생활을 하다보니까 하면 할수록 어려운게 사회생활인 거 같고
+43,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02020.wav,근데 나도 같은 한국인인데 난 그런 그렇게 하지 않았는데 너무 다 모든 한국인을 그렇게
+44,wav/eval_data/kor/dualcodec/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+45,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01710.wav,그 막 안에 혼자 막 뜯어 고치고 막 이러는 거
+46,wav/eval_data/kor/dualcodec/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+47,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+48,wav/eval_data/kor/mimi/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+49,wav/eval_data/kor/mimi/KsponSpeech_E02510.wav,그러니까 이제 애들이 처음엔 아직도 적응을 못하는 애들이 있거든
+50,wav/eval_data/kor/dualcodec/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+51,wav/eval_data/kor/dualcodec/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+52,wav/eval_data/kor/mimi/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+53,wav/eval_data/kor/mimi/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+54,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+55,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02510.wav,그러니까 이제 애들이 처음엔 아직도 적응을 못하는 애들이 있거든
+56,wav/eval_data/kor/cosy2/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+57,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+58,wav/eval_data/kor/mimi/KsponSpeech_E01780.wav,그 밑에 이렇게 평지로 다다르는 곳 있잖아 이 거의 끝에 쪽에
+59,wav/eval_data/kor/cosy2/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+60,wav/eval_data/kor/dualcodec/KsponSpeech_E01348.wav,구체적으로는 물어보지 않았는데 아무래도 전문적으로 하는 거 같더라고
+61,wav/eval_data/kor/mimi/KsponSpeech_E02483.wav,입학 원서 다 넣고 등록금 다 냈는데 자퇴만 하면 이제 입학 처리 될 것 같애요
+62,wav/eval_data/kor/dualcodec/KsponSpeech_E01780.wav,그 밑에 이렇게 평지로 다다르는 곳 있잖아 이 거의 끝에 쪽에
+63,wav/eval_data/kor/dualcodec/KsponSpeech_E02510.wav,그러니까 이제 애들이 처음엔 아직도 적응을 못하는 애들이 있거든
+64,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+65,wav/eval_data/kor/dualcodec/KsponSpeech_E01875.wav,아 눈빛 네 눈빛입니다
+66,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+67,wav/eval_data/kor/dualcodec/KsponSpeech_E02020.wav,근데 나도 같은 한국인인데 난 그런 그렇게 하지 않았는데 너무 다 모든 한국인을 그렇게
+68,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01780.wav,그 밑에 이렇게 평지로 다다르는 곳 있잖아 이 거의 끝에 쪽에
+69,wav/eval_data/kor/cosy2/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+70,wav/eval_data/kor/cosy2/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+71,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+72,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01875.wav,아 눈빛 네 눈빛입니다
+73,wav/eval_data/kor/mimi/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+74,wav/eval_data/kor/mimi/KsponSpeech_E01348.wav,구체적으로는 물어보지 않았는데 아무래도 전문적으로 하는 거 같더라고
+75,wav/eval_data/kor/mimi/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거

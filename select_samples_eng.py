@@ -182,18 +182,19 @@ def stratified_sample(samples, n=15, seed=42):
     
     return selected[:n], selected_speakers
 
-def create_nmos_csv(selected_indices, models, output_file, base_dir):
+def create_nmos_csv(selected_indices, models, output_file, base_dir, selected_transcripts):
     """
     Create NMOS.csv with randomly shuffled samples from all models.
     Each selected transcript appears once per model, but order is randomized.
+    동일한 transcript를 읽는 음성은 연속 배치되지 않도록 처리.
     
     결과:
-    - 총 15개 transcript × 4개 모델 = 60개 샘플
+    - 총 15개 transcript × 모델 수 = 샘플 수
     - 순서는 완전히 랜덤 (모델 정보 숨김)
+    - 동일 transcript 연속 배치 방지
+    - CSV에 transcript 정보 포함 (HTML에는 표시 안 함)
     """
-    rows = []
-    
-    # Collect all samples (model, index, audio_fname)
+    # Collect all samples with transcript info
     all_samples = []
     for model in models:
         meta_file = Path(base_dir) / model / "meta_data.jsonl"
@@ -203,30 +204,70 @@ def create_nmos_csv(selected_indices, models, output_file, base_dir):
         for idx in selected_indices:
             if idx < len(samples):
                 audio_fname = samples[idx]['audio_fname']
+                transcript = samples[idx].get('transcript', '')
                 audio_path = f"wav/eval_data/eng/{model}/{audio_fname}"
-                all_samples.append((model, idx, audio_path))
+                all_samples.append((model, idx, audio_path, transcript))
     
-    # Shuffle all samples to randomize order
-    random.shuffle(all_samples)
+    # Shuffle with constraint: 같은 transcript가 연속되지 않도록
+    shuffled = []
+    remaining = all_samples.copy()
+    random.shuffle(remaining)
     
-    # Write to CSV
+    last_transcript = None
+    max_attempts = len(all_samples) * 10  # 최대 시도 횟수
+    
+    while remaining and len(shuffled) < len(all_samples) and max_attempts > 0:
+        max_attempts -= 1
+        found = False
+        
+        # 같은 transcript가 아닌 샘플 찾기
+        for i, sample in enumerate(remaining):
+            _, _, _, transcript = sample
+            if transcript != last_transcript:
+                shuffled.append(sample)
+                remaining.pop(i)
+                last_transcript = transcript
+                found = True
+                break
+        
+        # 같은 transcript가 아닌 샘플을 찾지 못한 경우, 그냥 추가
+        if not found and remaining:
+            sample = remaining.pop(0)
+            shuffled.append(sample)
+            last_transcript = sample[3]
+    
+    # 남은 샘플 추가
+    shuffled.extend(remaining)
+    
+    # Write to CSV with transcript column
     with open(output_file, 'w', encoding='utf-8', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow(['order', 'filename'])
-        for order, (model, idx, audio_path) in enumerate(all_samples, start=1):
-            writer.writerow([order, audio_path])
+        writer.writerow(['order', 'filename', 'transcript'])
+        for order, (model, idx, audio_path, transcript) in enumerate(shuffled, start=1):
+            writer.writerow([order, audio_path, transcript])
     
-    print(f"Created {output_file} with {len(all_samples)} samples")
+    # 연속 배치 확인
+    consecutive_count = 0
+    for i in range(len(shuffled) - 1):
+        if shuffled[i][3] == shuffled[i+1][3]:
+            consecutive_count += 1
+    
+    print(f"Created {output_file} with {len(shuffled)} samples")
+    if consecutive_count > 0:
+        print(f"  ⚠️ Warning: {consecutive_count} consecutive same transcripts detected")
+    else:
+        print(f"  ✅ No consecutive same transcripts")
 
-def create_smos_csv(selected_indices, models, output_file, base_dir):
+def create_smos_csv(selected_indices, models, output_file, base_dir, selected_transcripts):
     """
     Create SMOS.csv with pairs of (generated_audio, reference_speaker_audio).
-    For each selected transcript, create 4 pairs (one per model).
+    For each selected transcript, create pairs (one per model).
     
     결과:
-    - 총 15개 transcript × 4개 모델 = 60개 쌍
+    - 총 15개 transcript × 모델 수 = 쌍 수
     - 각 쌍: (생성된 오디오, 참조 화자 오디오)
     - 순서는 랜덤
+    - CSV에 transcript 정보 포함
     """
     rows = []
     
@@ -239,6 +280,9 @@ def create_smos_csv(selected_indices, models, output_file, base_dir):
     
     # For each selected index, create pairs for all models
     for idx in selected_indices:
+        # Get transcript from first model (all models should have same transcript at same index)
+        transcript = model_metadata[models[0]][idx].get('transcript', '') if idx < len(model_metadata[models[0]]) else ''
+        
         for model in models:
             if idx < len(model_metadata[model]):
                 sample = model_metadata[model][idx]
@@ -248,24 +292,24 @@ def create_smos_csv(selected_indices, models, output_file, base_dir):
                 generated_path = f"wav/eval_data/eng/{model}/{audio_fname}"
                 reference_path = f"wav/eval_data/eng/speakers/{ref_speaker_fname}"
                 
-                rows.append((generated_path, reference_path))
+                rows.append((generated_path, reference_path, transcript))
     
     # Shuffle rows to randomize order
     random.shuffle(rows)
     
-    # Write to CSV
+    # Write to CSV with transcript column
     with open(output_file, 'w', encoding='utf-8', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow(['order', 'filename1', 'filename2'])
-        for order, (gen_path, ref_path) in enumerate(rows, start=1):
-            writer.writerow([order, gen_path, ref_path])
+        writer.writerow(['order', 'filename1', 'filename2', 'transcript'])
+        for order, (gen_path, ref_path, transcript) in enumerate(rows, start=1):
+            writer.writerow([order, gen_path, ref_path, transcript])
     
     print(f"Created {output_file} with {len(rows)} samples")
 
 def main():
     # Configuration for ENG
     base_dir = Path("wav/eval_data/eng")
-    models = ['mimi', 'lmspt-dc', 'dualcodec', 'cosy2']
+    models = ['mimi', 'lmspt-dc', 'lmspt-mimi', 'dualcodec', 'cosy2']  # lmspt-mimi 추가
     n_samples = 15
     seed = 42
     
@@ -300,6 +344,7 @@ def main():
     # Select samples using stratified sampling
     selected_samples, speaker_distribution = stratified_sample(all_samples, n=n_samples, seed=seed)
     selected_indices = [s['_index'] for s in selected_samples]
+    selected_transcripts = [s['transcript'] for s in selected_samples]
     
     print(f"Selected {len(selected_samples)} samples:")
     print("-" * 70)
@@ -339,8 +384,8 @@ def main():
     output_dir = Path("filelist")
     output_dir.mkdir(exist_ok=True)
     
-    create_nmos_csv(selected_indices, models, output_dir / "NMOS_eng.csv", base_dir)
-    create_smos_csv(selected_indices, models, output_dir / "SMOS_eng.csv", base_dir)
+    create_nmos_csv(selected_indices, models, output_dir / "NMOS_eng.csv", base_dir, selected_transcripts)
+    create_smos_csv(selected_indices, models, output_dir / "SMOS_eng.csv", base_dir, selected_transcripts)
     
     print("\n" + "=" * 70)
     print("Done!")
