@@ -4,10 +4,10 @@ order,filename1,filename2,transcript
 3,wav/eval_data/eng/cosy2/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
 4,wav/eval_data/eng/lmspt-dc/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
 5,wav/eval_data/eng/lmspt-mimi/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
-6,wav/eval_data/eng/lmspt-mimi/5683-32865-0007.wav,wav/eval_data/eng/speakers/5683-32865-0017.wav,i'm glad you like it says wylder chuckling benignantly on it over his shoulder
-7,wav/eval_data/eng/dualcodec/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
-8,wav/eval_data/eng/lmspt-mimi/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
-9,wav/eval_data/eng/dualcodec/7176-92135-0036.wav,wav/eval_data/eng/speakers/7176-92135-0001.wav,the crowd drifts off leaving the hero and heroine alone in the middle of the stage and then you can begin
+6,wav/eval_data/eng/dualcodec/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
+7,wav/eval_data/eng/lmspt-mimi/5683-32865-0007.wav,wav/eval_data/eng/speakers/5683-32865-0017.wav,i'm glad you like it says wylder chuckling benignantly on it over his shoulder
+8,wav/eval_data/eng/dualcodec/7176-92135-0036.wav,wav/eval_data/eng/speakers/7176-92135-0001.wav,the crowd drifts off leaving the hero and heroine alone in the middle of the stage and then you can begin
+9,wav/eval_data/eng/lmspt-mimi/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
 10,wav/eval_data/eng/cosy2/5683-32865-0007.wav,wav/eval_data/eng/speakers/5683-32865-0017.wav,i'm glad you like it says wylder chuckling benignantly on it over his shoulder
 11,wav/eval_data/eng/lmspt-mimi/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
 12,wav/eval_data/eng/mimi/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
@@ -16,61 +16,61 @@ order,filename1,filename2,transcript
 15,wav/eval_data/eng/cosy2/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
 16,wav/eval_data/eng/dualcodec/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
 17,wav/eval_data/eng/lmspt-dc/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
-18,wav/eval_data/eng/lmspt-dc/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
-19,wav/eval_data/eng/lmspt-dc/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
-20,wav/eval_data/eng/lmspt-mimi/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
-21,wav/eval_data/eng/dualcodec/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
+18,wav/eval_data/eng/lmspt-mimi/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
+19,wav/eval_data/eng/lmspt-dc/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
+20,wav/eval_data/eng/dualcodec/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
+21,wav/eval_data/eng/lmspt-dc/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
 22,wav/eval_data/eng/mimi/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
-23,wav/eval_data/eng/mimi/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
-24,wav/eval_data/eng/lmspt-mimi/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+23,wav/eval_data/eng/lmspt-mimi/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+24,wav/eval_data/eng/mimi/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
 25,wav/eval_data/eng/dualcodec/8555-284447-0020.wav,wav/eval_data/eng/speakers/8555-284447-0013.wav,the goat's warlike spirit was roused by this successful attack
 26,wav/eval_data/eng/mimi/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
-27,wav/eval_data/eng/mimi/5683-32865-0007.wav,wav/eval_data/eng/speakers/5683-32865-0017.wav,i'm glad you like it says wylder chuckling benignantly on it over his shoulder
-28,wav/eval_data/eng/mimi/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
-29,wav/eval_data/eng/cosy2/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
-30,wav/eval_data/eng/mimi/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
-31,wav/eval_data/eng/cosy2/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+27,wav/eval_data/eng/cosy2/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
+28,wav/eval_data/eng/mimi/5683-32865-0007.wav,wav/eval_data/eng/speakers/5683-32865-0017.wav,i'm glad you like it says wylder chuckling benignantly on it over his shoulder
+29,wav/eval_data/eng/cosy2/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+30,wav/eval_data/eng/mimi/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
+31,wav/eval_data/eng/cosy2/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
 32,wav/eval_data/eng/dualcodec/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
-33,wav/eval_data/eng/cosy2/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
+33,wav/eval_data/eng/mimi/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
 34,wav/eval_data/eng/lmspt-mimi/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
-35,wav/eval_data/eng/lmspt-mimi/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
-36,wav/eval_data/eng/dualcodec/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
+35,wav/eval_data/eng/dualcodec/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
+36,wav/eval_data/eng/lmspt-mimi/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
 37,wav/eval_data/eng/mimi/7176-92135-0036.wav,wav/eval_data/eng/speakers/7176-92135-0001.wav,the crowd drifts off leaving the hero and heroine alone in the middle of the stage and then you can begin
 38,wav/eval_data/eng/cosy2/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
 39,wav/eval_data/eng/lmspt-dc/7176-92135-0036.wav,wav/eval_data/eng/speakers/7176-92135-0001.wav,the crowd drifts off leaving the hero and heroine alone in the middle of the stage and then you can begin
 40,wav/eval_data/eng/lmspt-mimi/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
 41,wav/eval_data/eng/cosy2/8555-284447-0020.wav,wav/eval_data/eng/speakers/8555-284447-0013.wav,the goat's warlike spirit was roused by this successful attack
-42,wav/eval_data/eng/lmspt-dc/8555-284447-0020.wav,wav/eval_data/eng/speakers/8555-284447-0013.wav,the goat's warlike spirit was roused by this successful attack
-43,wav/eval_data/eng/lmspt-dc/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
-44,wav/eval_data/eng/mimi/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
+42,wav/eval_data/eng/lmspt-dc/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
+43,wav/eval_data/eng/mimi/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
+44,wav/eval_data/eng/lmspt-dc/8555-284447-0020.wav,wav/eval_data/eng/speakers/8555-284447-0013.wav,the goat's warlike spirit was roused by this successful attack
 45,wav/eval_data/eng/lmspt-mimi/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
 46,wav/eval_data/eng/dualcodec/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
-47,wav/eval_data/eng/dualcodec/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
-48,wav/eval_data/eng/lmspt-dc/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+47,wav/eval_data/eng/lmspt-dc/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+48,wav/eval_data/eng/dualcodec/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
 49,wav/eval_data/eng/lmspt-dc/5683-32865-0007.wav,wav/eval_data/eng/speakers/5683-32865-0017.wav,i'm glad you like it says wylder chuckling benignantly on it over his shoulder
 50,wav/eval_data/eng/cosy2/7176-92135-0036.wav,wav/eval_data/eng/speakers/7176-92135-0001.wav,the crowd drifts off leaving the hero and heroine alone in the middle of the stage and then you can begin
-51,wav/eval_data/eng/lmspt-mimi/7176-92135-0036.wav,wav/eval_data/eng/speakers/7176-92135-0001.wav,the crowd drifts off leaving the hero and heroine alone in the middle of the stage and then you can begin
+51,wav/eval_data/eng/lmspt-mimi/8555-284447-0020.wav,wav/eval_data/eng/speakers/8555-284447-0013.wav,the goat's warlike spirit was roused by this successful attack
 52,wav/eval_data/eng/cosy2/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
-53,wav/eval_data/eng/lmspt-mimi/8555-284447-0020.wav,wav/eval_data/eng/speakers/8555-284447-0013.wav,the goat's warlike spirit was roused by this successful attack
-54,wav/eval_data/eng/lmspt-mimi/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
-55,wav/eval_data/eng/lmspt-dc/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
+53,wav/eval_data/eng/lmspt-mimi/7176-92135-0036.wav,wav/eval_data/eng/speakers/7176-92135-0001.wav,the crowd drifts off leaving the hero and heroine alone in the middle of the stage and then you can begin
+54,wav/eval_data/eng/lmspt-dc/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
+55,wav/eval_data/eng/lmspt-mimi/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
 56,wav/eval_data/eng/dualcodec/5683-32865-0007.wav,wav/eval_data/eng/speakers/5683-32865-0017.wav,i'm glad you like it says wylder chuckling benignantly on it over his shoulder
 57,wav/eval_data/eng/mimi/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
-58,wav/eval_data/eng/mimi/8555-284447-0020.wav,wav/eval_data/eng/speakers/8555-284447-0013.wav,the goat's warlike spirit was roused by this successful attack
-59,wav/eval_data/eng/mimi/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
-60,wav/eval_data/eng/lmspt-dc/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
-61,wav/eval_data/eng/dualcodec/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
+58,wav/eval_data/eng/lmspt-dc/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
+59,wav/eval_data/eng/mimi/8555-284447-0020.wav,wav/eval_data/eng/speakers/8555-284447-0013.wav,the goat's warlike spirit was roused by this successful attack
+60,wav/eval_data/eng/dualcodec/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
+61,wav/eval_data/eng/mimi/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
 62,wav/eval_data/eng/cosy2/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
 63,wav/eval_data/eng/dualcodec/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
-64,wav/eval_data/eng/dualcodec/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
-65,wav/eval_data/eng/cosy2/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
-66,wav/eval_data/eng/dualcodec/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
-67,wav/eval_data/eng/cosy2/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+64,wav/eval_data/eng/cosy2/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
+65,wav/eval_data/eng/dualcodec/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
+66,wav/eval_data/eng/cosy2/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+67,wav/eval_data/eng/dualcodec/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
 68,wav/eval_data/eng/mimi/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
 69,wav/eval_data/eng/cosy2/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
-70,wav/eval_data/eng/cosy2/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
-71,wav/eval_data/eng/lmspt-dc/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
-72,wav/eval_data/eng/lmspt-dc/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
-73,wav/eval_data/eng/dualcodec/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
+70,wav/eval_data/eng/lmspt-dc/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
+71,wav/eval_data/eng/cosy2/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
+72,wav/eval_data/eng/dualcodec/1580-141084-0021.wav,wav/eval_data/eng/speakers/1580-141084-0010.wav,on the palm were three little pyramids of black doughy clay
+73,wav/eval_data/eng/lmspt-dc/5639-40744-0016.wav,wav/eval_data/eng/speakers/5639-40744-0029.wav,on the contrary he resolved to tell them that repenting of his violence and moved by her tears he had only carried her half way towards his house and then let her go
 74,wav/eval_data/eng/mimi/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
 75,wav/eval_data/eng/lmspt-mimi/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
