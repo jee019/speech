@@ -12,10 +12,10 @@ def main():
     template = env.get_template("test_single.html.jinja2")
     
     # Load KOR MOS questions
-    kor_mos_questions = QuestionGenerator_MOS("filelist/NMOS_kor.csv").questions
+    kor_mos_questions = QuestionGenerator_MOS("filelist/NMOS_kor_10.csv").questions
     
     # Load KOR SMOS questions
-    kor_smos_questions = QuestionGenerator_SMOS("filelist/SMOS_kor.csv").questions
+    kor_smos_questions = QuestionGenerator_SMOS("filelist/SMOS_kor_10.csv").questions
 
     html = template.render(
         page_title="NMOS & SMOS Experiment Form (Korean)",

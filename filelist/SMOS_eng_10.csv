@@ -1,0 +1,51 @@
+order,filename1,filename2,transcript
+1,wav/eval_data/eng/mimi/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
+2,wav/eval_data/eng/lmspt-dc/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+3,wav/eval_data/eng/dualcodec/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
+4,wav/eval_data/eng/lmspt-mimi/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+5,wav/eval_data/eng/lmspt-dc/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
+6,wav/eval_data/eng/dualcodec/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
+7,wav/eval_data/eng/lmspt-dc/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
+8,wav/eval_data/eng/mimi/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+9,wav/eval_data/eng/lmspt-dc/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
+10,wav/eval_data/eng/lmspt-mimi/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+11,wav/eval_data/eng/dualcodec/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
+12,wav/eval_data/eng/cosy2/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
+13,wav/eval_data/eng/lmspt-mimi/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
+14,wav/eval_data/eng/lmspt-dc/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
+15,wav/eval_data/eng/mimi/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+16,wav/eval_data/eng/lmspt-mimi/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
+17,wav/eval_data/eng/lmspt-dc/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+18,wav/eval_data/eng/lmspt-dc/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
+19,wav/eval_data/eng/mimi/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
+20,wav/eval_data/eng/cosy2/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
+21,wav/eval_data/eng/dualcodec/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+22,wav/eval_data/eng/lmspt-mimi/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
+23,wav/eval_data/eng/cosy2/1188-133604-0031.wav,wav/eval_data/eng/speakers/1188-133604-0039.wav,there's one and there's another the dudley and the flint
+24,wav/eval_data/eng/mimi/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
+25,wav/eval_data/eng/lmspt-dc/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
+26,wav/eval_data/eng/cosy2/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
+27,wav/eval_data/eng/cosy2/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
+28,wav/eval_data/eng/lmspt-mimi/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
+29,wav/eval_data/eng/dualcodec/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
+30,wav/eval_data/eng/mimi/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
+31,wav/eval_data/eng/cosy2/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
+32,wav/eval_data/eng/dualcodec/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
+33,wav/eval_data/eng/cosy2/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
+34,wav/eval_data/eng/cosy2/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+35,wav/eval_data/eng/lmspt-dc/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur
+36,wav/eval_data/eng/lmspt-mimi/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
+37,wav/eval_data/eng/dualcodec/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
+38,wav/eval_data/eng/mimi/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
+39,wav/eval_data/eng/lmspt-mimi/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
+40,wav/eval_data/eng/mimi/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
+41,wav/eval_data/eng/lmspt-dc/4970-29095-0027.wav,wav/eval_data/eng/speakers/4970-29095-0036.wav,it's such a crush at the yearly meeting at arch street and then there's the row of sleek looking young men who line the curbstone and stare at us as we come out
+42,wav/eval_data/eng/mimi/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
+43,wav/eval_data/eng/cosy2/8463-294828-0033.wav,wav/eval_data/eng/speakers/8463-294828-0031.wav,i was well satisfied with my cabin which was located in the stern and opened into the officers mess
+44,wav/eval_data/eng/dualcodec/6930-76324-0025.wav,wav/eval_data/eng/speakers/6930-76324-0028.wav,why it's goliath as usual they both cried peering in
+45,wav/eval_data/eng/lmspt-mimi/7127-75947-0015.wav,wav/eval_data/eng/speakers/7127-75947-0016.wav,there cannot be a doubt he received you kindly for in fact you returned without his permission
+46,wav/eval_data/eng/cosy2/260-123288-0011.wav,wav/eval_data/eng/speakers/260-123288-0002.wav,but if we have now ceased to advance why do we yet leave that sail loose which at the first shock of the tempest may capsize us in a moment
+47,wav/eval_data/eng/lmspt-mimi/908-157963-0025.wav,wav/eval_data/eng/speakers/908-157963-0013.wav,i see they lay helpless and naked weeping and none to answer none to cherish thee with mothers smiles
+48,wav/eval_data/eng/dualcodec/4992-41797-0008.wav,wav/eval_data/eng/speakers/4992-41797-0010.wav,mister popham exaggerated nothing but on the contrary left much unsaid in his narrative of the family at the house of lords
+49,wav/eval_data/eng/dualcodec/4446-2273-0024.wav,wav/eval_data/eng/speakers/4446-2273-0021.wav,bartley started when hilda rang the little bell beside her dear me why did you do that
+50,wav/eval_data/eng/mimi/1320-122617-0000.wav,wav/eval_data/eng/speakers/1320-122617-0039.wav,notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur

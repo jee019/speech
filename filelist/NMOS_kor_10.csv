@@ -1,0 +1,51 @@
+order,filename,transcript
+1,wav/eval_data/kor/dualcodec/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+2,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+3,wav/eval_data/kor/cosy2/KsponSpeech_E01921.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+4,wav/eval_data/kor/mimi/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+5,wav/eval_data/kor/dualcodec/KsponSpeech_E00185.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+6,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+7,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+8,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+9,wav/eval_data/kor/mimi/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+10,wav/eval_data/kor/dualcodec/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+11,wav/eval_data/kor/mimi/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+12,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+13,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+14,wav/eval_data/kor/mimi/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+15,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01921.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+16,wav/eval_data/kor/cosy2/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+17,wav/eval_data/kor/dualcodec/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+18,wav/eval_data/kor/cosy2/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+19,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+20,wav/eval_data/kor/cosy2/KsponSpeech_E02723.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+21,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00185.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+22,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+23,wav/eval_data/kor/dualcodec/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+24,wav/eval_data/kor/cosy2/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+25,wav/eval_data/kor/mimi/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+26,wav/eval_data/kor/dualcodec/KsponSpeech_E02723.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+27,wav/eval_data/kor/cosy2/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+28,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+29,wav/eval_data/kor/mimi/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+30,wav/eval_data/kor/cosy2/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+31,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02439.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+32,wav/eval_data/kor/mimi/KsponSpeech_E01921.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+33,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+34,wav/eval_data/kor/dualcodec/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+35,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02735.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+36,wav/eval_data/kor/cosy2/KsponSpeech_E00185.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+37,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+38,wav/eval_data/kor/dualcodec/KsponSpeech_E00352.wav,근데 내가 한참동안 있었거든 근데 이제
+39,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01921.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+40,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02723.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+41,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00185.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+42,wav/eval_data/kor/cosy2/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+43,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01594.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+44,wav/eval_data/kor/mimi/KsponSpeech_E00185.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+45,wav/eval_data/kor/mimi/KsponSpeech_E01592.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+46,wav/eval_data/kor/mimi/KsponSpeech_E02723.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+47,wav/eval_data/kor/dualcodec/KsponSpeech_E01075.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+48,wav/eval_data/kor/cosy2/KsponSpeech_E01003.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+49,wav/eval_data/kor/dualcodec/KsponSpeech_E01921.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+50,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02723.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
